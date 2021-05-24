@@ -1,5 +1,3 @@
-[instagram]: https://instagram.com/dsousa_12
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evertonvargas&color=brightgreen" alt="evertonvargas"/></p><br>
 <h2 align="center">Hi <img src="https://github.com/evertonvargas/evertonvargas/blob/main/images/wave-animated.gif" width="25px">, I'm Éverton Vargas</h2>
 <p align="center">Courteous and enthusiastic, I love JavaScript and python. I recently began to be fascinated by web programming and data science, for example, 
