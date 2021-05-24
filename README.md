@@ -29,7 +29,7 @@ integrating web development with artificial intelligence algorithms.</p>
 - 😇 My list to Visit : Shenzhen, Silicon Valley and Zurich.
 - 🌎 I love meeting diverse individuals around the world, so if you want to connect, feel free to reach out & introduce yourself (don’t just say hi, tell me about yourself!)
 - 📫 How to reach me: You can e-mail me at evertonpassa7@gmail.com
-<br/>
+
 ![Éverton Vargas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=evertonvargas&theme=algolia&show_icons=true)
 
 ### Skills
