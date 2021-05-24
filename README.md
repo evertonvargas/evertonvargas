@@ -15,8 +15,8 @@ integrating web development with artificial intelligence algorithms.</p>
 
 <h3 align="center">Folow me: </h3>
 <p align ="center">
-<a href="https://www.instagram.com/evertonjvargas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/evertonjvargas/"><img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 <br/>
 <br/>
