@@ -6,13 +6,15 @@ integrating web development with artificial intelligence algorithms.</p>
 <p align="center">
 <br>
 <img src="images/dev.gif" width="280px"><br><br>
-<img src="images/html.svg" alt="html5" width="20" height="20" />
-<img src="images/css.svg" alt="css3"  width="20" height="20"/>
-<img src="images/javascript.svg" alt="javascript"  width="20" height="20"/>
-<img src="images/react.svg" alt="javascript" width="20" height="20"/>
-<img src="images/node.svg" alt="nodejs" width="20" height="20"/>
-<img src="images/postgre.svg" alt="postgresql" width="20" height="20"/>
-<img src="images/mongo.svg" alt="mongodb" width="20" height="20"/>
+<img src="https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3">
+<img src="https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 </p>
 
 <h3 align="center">Folow me: </h3>
