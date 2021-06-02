@@ -10,7 +10,6 @@ integrating web development with artificial intelligence algorithms.</p>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3">
 <img src="https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
