@@ -6,13 +6,13 @@ integrating web development with artificial intelligence algorithms.</p>
 <p align="center">
 <br>
 <img src="images/dev.gif" width="280px"><br><br>
-<img src="images/html.png" alt="html5" width="20" height="20" />
-<img src="images/css.png" alt="css3"  width="20" height="20"/>
-<img src="images/javascript.png" alt="javascript"  width="20" height="20"/>
-<img src="images/react.png" alt="javascript" width="20" height="20"/>
-<img src="images/node.png" alt="nodejs" width="20" height="20"/>
-<img src="images/postgre.png" alt="postgresql" width="20" height="20"/>
-<img src="images/mongo.png" alt="mongodb" width="20" height="20"/>
+<img src="images/html.svg" alt="html5" width="20" height="20" />
+<img src="images/css.svg" alt="css3"  width="20" height="20"/>
+<img src="images/javascript.svg" alt="javascript"  width="20" height="20"/>
+<img src="images/react.svg" alt="javascript" width="20" height="20"/>
+<img src="images/node.svg" alt="nodejs" width="20" height="20"/>
+<img src="images/postgre.svg" alt="postgresql" width="20" height="20"/>
+<img src="images/mongo.svg" alt="mongodb" width="20" height="20"/>
 </p>
 
 <h3 align="center">Folow me: </h3>
