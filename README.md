@@ -5,7 +5,17 @@ integrating web development with artificial intelligence algorithms.</p>
 
 <p align="center">
 <br>
-<img src="images/dev.gif" width="280px"><br><br>
+<img src="images/dev.gif" width="280px"><br>
+</p>
+
+<h3 align="center">Folow me: </h3>
+<p align ="center">
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/evertonjvargas/"><img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+<h3 align="center">My Skills: </h3>
+<p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3">
@@ -15,18 +25,10 @@ integrating web development with artificial intelligence algorithms.</p>
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 </p>
-
-<h3 align="center">Folow me: </h3>
-<p align ="center">
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/evertonjvargas/"><img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-<br/>
-
+<br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonvargas&layout=compact&theme=algolia" />
 </div>
-
 
 
 
