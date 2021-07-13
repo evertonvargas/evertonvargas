@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evertonvargas&color=brightgreen" alt="evertonvargas"/></p><br>
 <h2 align="center">Hi <img src="images/wave-animated.gif" width="25px">, I'm Éverton Vargas</h2>
-<p align="center">Nothing beats a person with persistence. I love JavaScript and Python. I'm fascinated by web programming with ReactJs and NodeJs</p>
+<p align="center">Nothing beats a person with persistence. I love JavaScript and Python. I'm fascinated by web programming with ReactJs and NodeJs. "A champion is an ordinary person with a lot of focus."</p>
 
 <p align="center">
 <br>
