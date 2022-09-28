@@ -1,6 +1,6 @@
 <br>
 <h2 align="center">Hi <img src="images/wave-animated.gif" width="25px">, I'm Éverton Vargas</h2>
-<p align="center">I love JavaScript and Python. I'm fascinated by web programming with ReactJs and NodeJs.<br/> "A champion is an ordinary person with a lot of focus."</p>
+<p align="center">I love JavaScript. I'm fascinated by programming with ReactJs, NodeJs and React Native.<br/> "A champion is an ordinary person with a lot of focus."</p>
 
 <p align="center">
 <br>
